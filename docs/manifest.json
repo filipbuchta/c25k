@@ -1,0 +1,13 @@
+{
+  "start_url": "http://filipbuchta.githob.io/c25k",
+  "short_name": "c25k",
+  "icons": [
+    {
+      "src": "http://contosotravel.azurewebsites.net/images/logo.png",
+      "sizes": "150x150"
+    }
+  ],
+  "display": "fullscreen",
+  "orientation": "any",
+  "name": "c25k"
+}
