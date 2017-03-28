@@ -1,6 +1,7 @@
 {
   "name": "c25k",
   "version": "0.1.0",
+  "homepage": "http://filipbuchta.github.io/c25k",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.9.5"
